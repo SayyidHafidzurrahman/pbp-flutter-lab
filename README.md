@@ -1,5 +1,5 @@
 # Tugas Individu 7 PBP (*counter_7*)
-**ayyid Hafidzurrahman Atstsaqofi (2106651925)**
+**Sayyid Hafidzurrahman Atstsaqofi (2106651925)**
 
 ## Jelaskan apa yang dimaksud dengan stateless widget dan stateful widget dan jelaskan perbedaan dari keduanya.      
 *Stateless widget* merupakan *widget* statis atau tidak memiliki *state* atau kondisi tertentu sehingga tampilannya tidak dipengaruhi oleh *state* atau kondisi yang dimilikinya. Oleh karena itu, konfigurasi pada *stateless widget* harusnya sudah diinisiasi sejak awal. Tampilan dari *stateless widget* hanya bisa diubah melalui *parent*-nya.
