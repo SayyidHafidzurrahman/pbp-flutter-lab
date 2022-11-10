@@ -20,7 +20,7 @@ Perbedaan antara *stateful widget* dan *stateless widget* adalah:
 * `FloatingActionButton` <br> *Widget* untuk membuat suatu tombol yang meng-*hover* di atas konten.
 * `Text` <br> *Widget* untuk menampilkan teks.
 * `Column` <br> *Widget* untuk menampilkan satu atau lebih widget dalam satu kolom.
-* `Icon` : Memberi atribut icon ke sebuah element
+* `Icon` <br> Memberi atribut icon ke sebuah element
 * `Row` <br> *Widget* untuk menampilkan satu atau lebih *widget* dalam satu baris.
 * `Expanded` <br> *Widget* untuk membuat *child* yang berada dalam satu *Flex container*  memakan tempat sebanyak mungkin sehingga tidak ada space yang terbuang (mencegah tampilan terlihat tidak simetris).
 * `Spacer` <br> *Widget* untuk memberi gap semaksimal mungkin diantara *widget* yang berada dalam satu *Flex container* (seperti *row* atau *column*).
