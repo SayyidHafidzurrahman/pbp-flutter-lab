@@ -1,7 +1,4 @@
-import 'package:counter_7/drawer.dart';
-import 'package:counter_7/form.dart';
-import 'package:counter_7/show_budget.dart';
-import 'package:counter_7/models.dart';
+import 'package:counter_7/widget/drawer.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -15,7 +12,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Tugas 8: Flutter Form',
+      title: 'Tugas 9: Integrasi Web Service',
       theme: ThemeData(
         // This is the theme of your application.
         //

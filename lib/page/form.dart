@@ -1,7 +1,5 @@
-import 'package:counter_7/drawer.dart';
-import 'package:counter_7/main.dart';
-import 'package:counter_7/show_budget.dart';
-import 'package:counter_7/models.dart';
+import 'package:counter_7/widget/drawer.dart';
+import 'package:counter_7/models/budget_model.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter/material.dart';
 
