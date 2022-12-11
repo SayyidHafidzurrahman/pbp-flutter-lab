@@ -114,7 +114,7 @@ Row(
 ```
 <br>
 
-# TUGAS 8
+# Tugas Individu 8 PBP (*Flutter Form*)
 ## Jelaskan perbedaan Navigator.push dan Navigator.pushReplacement.
 Perbedaan dari navigator push dan pushreplacement adalah pada push, kita hanya menimpa layer sebagaimana tipe data stack. Akan tetapi, push replacement tidak akan menimpa, melainkan akan mengganti layer tersebut menjadi layer dia.
 
@@ -148,7 +148,7 @@ Navigator layaknya stack untuk ditampilkan dengan paling atas berarti yang muncu
 4. Membuat showBudget dan melakukan loop dari dataBudget.len untuk diloop dan ditampilan sebagaimananya dengan Card view. Menggunakan ListView.Builder
 <br>
 
-# TUGAS 9
+# Tugas Individu 9 PBP (*Integrasi Web Service pada Flutter*)
 ## Apakah bisa kita melakukan pengambilan data JSON tanpa membuat model terlebih dahulu? Jika iya, apakah hal tersebut lebih baik daripada membuat model sebelum melakukan pengambilan data JSON?
 Kita bisa mengambil data JSON tanpa membuat model, akan tetapi, terdapat kekurangan seperti kita tidak bisa mengakses data tersebut sebagai sebuah "class" dan ini menjadi kurang efisien.
 
